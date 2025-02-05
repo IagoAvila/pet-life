@@ -286,5 +286,8 @@ footer p a {
     #inicio > div {
         margin-bottom: 40%;
     }
+     #inicio > div > a.botao-transparente {
+    display: none;
+}
 } 
 
